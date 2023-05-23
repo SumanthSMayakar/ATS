@@ -1,0 +1,11 @@
+--> create file : npm init -y
+
+-> npm i --save express mongoose cors cookie-parser dotenv express-fileupload
+
+-> npm i --save bcryptjs jsonwebtoken http-status-codes nodemailer cloudinary concurrently
+
+--> create folders :
+
+--> controller, db, middleware, model, route, util folders
+
+--> .env file
